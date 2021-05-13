@@ -1,3 +1,4 @@
+// code used from the module
 const Sequelize = require('sequelize');
 
 require('dotenv').config();

@@ -1,3 +1,4 @@
+// used module 14 code here and changed it to fit the assignment
 const router = require('express').Router();
 const { User, Post, Comment, Vote } = require('../../models');
 

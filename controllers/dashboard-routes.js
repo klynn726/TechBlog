@@ -1,3 +1,4 @@
+// uses module 14 code as a reference
 const router = require('express').Router();
 const sequelize = require('../config/connection');
 const { Post, User, Comment } = require('../models');

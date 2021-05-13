@@ -1,3 +1,5 @@
+// module code used here as a starting point
+
 const router = require('express').Router();
 const { Comment } = require('../../models');
 const withAuth = require('../../utils/auth');

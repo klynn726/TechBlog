@@ -1,3 +1,4 @@
+// adjusted the module 14 code to fit this project
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 

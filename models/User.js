@@ -1,3 +1,4 @@
+// modufied module 14 code to fit this project
 const { Model, DataTypes } = require('sequelize');
 const bcrypt = require('bcrypt');
 const sequelize = require('../config/connection');
